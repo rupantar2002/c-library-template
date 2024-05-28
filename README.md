@@ -62,7 +62,6 @@ my_library/
     ```
     git clone https://github.com/ThrowTheSwitch/Unity.git
     ```
-``
 
 ## New Project Structure
 
@@ -90,4 +89,4 @@ my_library/
 
 ```
 ## Resources
-- unity test frame work https://github.com/ThrowTheSwitch/Unity
+- unity test framework https://github.com/ThrowTheSwitch/Unity

@@ -27,7 +27,7 @@ my_library/
 
 ```
 
-## Featues
+## Features
 - Public headers folder.
     >include/library-name/
 - Privated headers and src files

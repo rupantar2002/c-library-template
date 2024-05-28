@@ -43,13 +43,26 @@ my_library/
 
 
 # Integrate Unity Test framework
-- make a folder called unity in test folder
-    >tests/unity
+
+- Navigate to tests folder
+    ``` 
+    cd ./tests
+    ```
+
+- make a folder called unity in tests folder
+    ```
+    mkdir unity
+    ``` 
     
 - Navigate to unity folder
-`cd ./tests/unity`
-
-- clone the repository `git clone https://github.com/ThrowTheSwitch/Unity.git`
+    ``` 
+    cd ./unity
+    ```
+- clone the repository 
+    ```
+    git clone https://github.com/ThrowTheSwitch/Unity.git
+    ```
+``
 
 ## New Project Structure
 
@@ -77,4 +90,4 @@ my_library/
 
 ```
 ## Resources
-- unity test frame work `https://github.com/ThrowTheSwitch/Unity`
+- unity test frame work https://github.com/ThrowTheSwitch/Unity
